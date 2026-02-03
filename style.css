@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  background-color: #f1f5f9;
+  padding: 20px;
+}
+
+h1 {
+  color: #1d4ed8;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #dc2626;
+}
+
+ul li {
+  margin: 10px 0;
+}
